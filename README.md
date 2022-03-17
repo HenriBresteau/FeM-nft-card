@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fe-m-nft-card.vercel.app/)
+- Live Site URL: [fe-m-nft-card.vercel.app](https://fe-m-nft-card.vercel.app/)
 
 ### Built with
 
